@@ -3,10 +3,10 @@ var cylon = require('cylon');
 var GT511C3 = require('gt511c3');
 var mysql = require('mysql');
 var connection = mysql.createConnection({
-  host     : '75.85.176.92',
-  port     : '3306',
-  user     : 'xdata',
-  password : 'Theo2003',
+  host     : '------------',
+  port     : '------------',
+  user     : '-------------',
+  password : '------------',
   database : 'jefferson-id-db'
 });
 
