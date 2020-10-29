@@ -5,10 +5,10 @@ var mysql = require('mysql');
 var ping = require ("net-ping");
 var childProcess = require('child_process');
 var connection = mysql.createConnection({
-  host     : '75.85.176.92',
+  host     : 'xxxxxxxxx',
   port     : '3306',
-  user     : 'xdata',
-  password : 'Theo2003',
+  user     : 'xxxxxxxxx',
+  password : 'xxxxxxxx',
   database : 'jefferson-id-db'
 });
 
